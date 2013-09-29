@@ -2,7 +2,7 @@
  * 29 September 2013
  * stringah1.c */
 
- #ifdef __cplusplus
+#ifdef __cplusplus
 extern "C" {
 #endif /* __cplusplus */
 
